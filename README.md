@@ -71,14 +71,7 @@ People need instant emotional support but don't always have someone to talk to. 
 - Building a gamified UX system
 - Debugging complex animation + logic bugs
 
----
 
-## 🚧 Coming Soon
-
-- 🎨 Sticker Generator
-- 🤖 Real AI-powered responses
-- 📊 Zen Score mood tracker graph
-- 🌐 Backend for persistent Wall data
 
 ---
 
